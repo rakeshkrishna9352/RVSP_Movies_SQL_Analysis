@@ -20,8 +20,8 @@ The presented SQL analysis revolves around deriving insights from the RVSP Movie
 - Dream Warrior Pictures or National Theatre is the production house that has produced the most hit movies, hence RVSP can partner with them for their upcoming project.
 - James Mangold, with the highest number of hit movies in the top three genres, can be hired as the director for RVSP’s next project.
 - Movies by Marvel Studios, Twentieth Century Fox, and Warner Bros. are the top three production houses based on the number of votes received by the movies they have produced.
-- For Indian movies Vijay Sethupathi and Fahaad Faasil can be choosen as lead actors and Tapsee Pannu as lead actress based on the average ratings their movies received.
-- In case RVSP plans to make a multilingual movie, they can choose between Star Cinema and Twentieth Century production houses, as they are the top two production houses that have most number of hits among multilingual movies
+- For Indian movies, Vijay Sethupathi and Fahadh Faasil can be chosen as lead actors and Tapsee Pannu as lead actress based on the average ratings their movies received.
+- In case RVSP plans to make a multilingual movie, they can choose between Star Cinema and Twentieth Century production houses, as they are the top two production houses that have the most number of hits among multilingual movies
 
 ### 5. References
 This case study was part of Data Science Certification Program by UpGrad Campus.
